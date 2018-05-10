@@ -1,5 +1,6 @@
-# top50
-Selected top 50 users for round 2 of CodeZilla 2018
+### Selected top 50 users for round 2 of CodeZilla 2018
+
+Selection is done with [githubuserrank](https://github.com/mozillauwu/githubuserrank)
 
 - OshanIvantha - 874
 - chashikajw - 657
